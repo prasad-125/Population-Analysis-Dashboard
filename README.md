@@ -1,4 +1,4 @@
 # Population Analysis 
-Project made with Python 
+Project made using PowerBI 
 ## Dashboard Preview
 ![Dashboard](Population Dashboard.png)
